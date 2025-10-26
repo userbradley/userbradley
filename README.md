@@ -24,4 +24,4 @@
 
 I've changed careers from DevOps to Security Engineering. It's a nice mixture of DevOps but more security Focused
 
-<figure><embed src="https://wakatime.com/share/@userbradley/e5d2046c-f5d8-437a-99df-32098f0509e6.svg"></embed></figure>
+I am rebuilding my Home Lab at the moment, and in the process of migrating my blog to a static site using Hugo
