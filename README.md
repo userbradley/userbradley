@@ -1,7 +1,8 @@
 <p align="center">
   <samp>
-    <a href="https://breadnet.co.uk/">My blog</a> .
-    <a href="https://linkedin.com/in/bradley-stannard">linkedin</a> .
+    <a href="https://breadnet.co.uk/">My blog</a> •
+    <a href="https://documentation.breadnet.co.uk">Documentation</a> •
+    <a href="https://linkedin.com/in/bradley-stannard">linkedin</a> 
   </samp>
 </p>
 
