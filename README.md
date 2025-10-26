@@ -1,16 +1,27 @@
-## Hi there 👋
+<p align="center">
+  <samp>
+    <a href="https://breadnet.co.uk/">My blog</a> .
+    <a href="https://linkedin.com/in/bradley-stannard">linkedin</a> .
+  </samp>
+</p>
 
-<!--
-**userbradley/userbradley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+:wave: I'm @userbradley, a Cybersecurity Engineer based in the UK, with a side hobby of DevOps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![wakatime](https://wakatime.com/badge/user/befd4d51-df71-4caa-90ba-09a83c0524b0.svg)](https://wakatime.com/@befd4d51-df71-4caa-90ba-09a83c0524b0)
+
+## Some things I'm known for
+
+* My [Website](https://breadnet.co.uk)
+* Brining Kubernetes and [Flux](https://fluxcd.io/adopters/#:~:text=particule.-,Pets%20at%20Home,-Platform%20Engineers) to Pets at Home
+* Migrating Pets at Home from BitBucket to GitHub for Data department (Yes, all the CI too...)
+* [Open sourcing all my Documentation](https://documentation.breadnet.co.uk)
+* [Reverse Engineering BeReal](https://userbradley.github.io/BeReal/) and then writing a Website
+
+
+## What I'm working on now
+
+I've changed careers from DevOps to Security Engineering. It's a nice mixture of DevOps but more security Focused
+
+<figure><embed src="https://wakatime.com/share/@userbradley/e5d2046c-f5d8-437a-99df-32098f0509e6.svg"></embed></figure>
